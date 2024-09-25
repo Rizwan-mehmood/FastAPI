@@ -1,0 +1,308 @@
+[
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1761805372,
+    "httpOnly": false,
+    "name": "mbox",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "PC#2b3a0bfbef4449538ac18908779e7ced.38_0#1790490173|session#97c77d24ba644670be7cbb9c780a5207#1727247233"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1758781372,
+    "httpOnly": false,
+    "name": "datadome",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "bmKyjuYp1ZNp7IG41NQAARWH9XygMy~dh4auC2QmExikPmJvKjv8r_26H1SjhAJd0TI4Kgs4GPSLVKUGUQ_Z13E5z_HaHeIJUb56Ng_ujLEUpiwaTIFFkvoLEmvfINmH"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1760941372,
+    "httpOnly": false,
+    "name": "_uetvid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "899c26d0791411ef9598cb19e7b1ab7f"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1727331772,
+    "httpOnly": false,
+    "name": "_uetsid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "899bf030791411efb47561e7fb0f82a9"
+  },
+  {
+    "domain": "shop.giftcards.com",
+    "httpOnly": true,
+    "name": "affinity",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "\"89b95f9714cfc848\""
+  },
+  {
+    "domain": "shop.giftcards.com",
+    "expiry": 1758720903,
+    "httpOnly": false,
+    "name": "RoktRecogniser",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2b63fd02-c037-4a14-b0b3-2dbb47d8ed73"
+  },
+  {
+    "domain": ".shop.giftcards.com",
+    "expiry": 1761805286,
+    "httpOnly": false,
+    "name": "forterToken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "c70e18e946dc4e1c86bbebfacec0c6bb_1727245284888__UDF43_15ck_Cm1hHIJnbcI%3D-85-v2"
+  },
+  {
+    "domain": ".giftcards.com",
+    "httpOnly": false,
+    "name": "at_check",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "true"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1761805286,
+    "httpOnly": false,
+    "name": "forterToken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "c70e18e946dc4e1c86bbebfacec0c6bb_1727245284888__UDF43_15ck_Cm1hHIJnbcI%3D-85-v2"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1758567440,
+    "httpOnly": false,
+    "name": "andor",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "consumer"
+  },
+  {
+    "domain": ".giftcards.com",
+    "httpOnly": false,
+    "name": "notice_behavior",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "implied,us"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1727247082,
+    "httpOnly": false,
+    "name": "_hjSession_3114950",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "eyJpZCI6IjUwOGY0OWU4LTYyNGQtNDgzYS05NDk3LWI3YmM2MzVhMjVjYSIsImMiOjE3MjcyNDUyODI3OTEsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0="
+  },
+  {
+    "domain": "shop.giftcards.com",
+    "expiry": 1760941371,
+    "httpOnly": true,
+    "name": "AFPID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "f4eb0576-fbd9-4ad5-860b-a8f067f38977"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1761312870,
+    "httpOnly": false,
+    "name": "kndctr_0C511F65636543580A495C9A_AdobeOrg_identity",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "CiY2NjgzOTU2ODEyOTUyNDU0NjAzMjA2ODA1NjUzOTMzNjU0MTg0MVITCMmV4tihMhABGAEqBElSTDEwAPABi7z2oaIy"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1727317281,
+    "httpOnly": false,
+    "name": "FPLC",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "7aF7a7OvOq711m6JX8udjM9Q8BFR%2FUb04Jub9XkQqUHPZxgQCGsilbhT%2FCKW3UpC30u0DcIh9WfNlLtTueM1iK6MBXlSbHi2FBq1X8UrGie5MFKA%2BYmM3BNm4B8uGQ%3D%3D"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1727247173,
+    "httpOnly": false,
+    "name": "kndctr_0C511F65636543580A495C9A_AdobeOrg_cluster",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "irl1"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1727247080,
+    "httpOnly": false,
+    "name": "TAsessionID",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "3adfc004-8908-45c4-b15a-778acb8c5c6f|NEW"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1758781281,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "5nu317%7C2%7Cfph%7C0%7C1726"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1727331682,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1we72ja%7C1727245282926%7C1%7C1%7Co.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1761348893,
+    "httpOnly": false,
+    "name": "cto_bundle",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "d6RlQ18lMkJRWGRtSEtYR3pTYm1GeW1iVmw5TmFwZnVQOW43NThiZDUwWWNwUDFzekd0Wmo0OVRhQm1ucnZQMmR1ek9uVXJxSkplNjllNjRPYnQlMkZjeGh4akd4RUE2aXdwT01kUlB0dWdtUlpLdWJnaDhZSk8xaXRTdEhSeDQlMkY0WUpoNzJHNFlGOVhEZ2REaGZVWWVMckJVUGxyYXFvRlVWUkxscFFoNmwlMkZvY3lEcXRmMCUzRA"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1761805372,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1665590039.1727031452"
+  },
+  {
+    "domain": "shop.giftcards.com",
+    "expiry": 1761591476,
+    "httpOnly": false,
+    "name": "addshoppers.com",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2%7C1%3A0%7C10%3A1727031478%7C15%3Aaddshoppers.com%7C44%3AOTI1ZGNhNjg2NzQ0NDlhYmIyYTAyNWU4ZTAwMDQ1YWY%3D%7C590cc10e0b1a502502130ec2122bc6b7cb4aa91890a327c05c2f4fbf3a70cf4e"
+  },
+  {
+    "domain": "shop.giftcards.com",
+    "expiry": 1758567450,
+    "httpOnly": false,
+    "name": "__pdst",
+    "path": "/",
+    "sameSite": "Strict",
+    "secure": false,
+    "value": "9de4cdaf1ca246dab2bb16cf9c3431b2"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1758567440,
+    "httpOnly": false,
+    "name": "r_source",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "andor"
+  },
+  {
+    "domain": "shop.giftcards.com",
+    "httpOnly": false,
+    "name": "_hjHasCachedUserAttributes",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "true"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1761805372,
+    "httpOnly": false,
+    "name": "_ga_M3TTE9C20T",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS1.1.1727245281.6.1.1727245372.0.0.531252069"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1760727444,
+    "httpOnly": false,
+    "name": "AMCV_0C511F65636543580A495C9A%40AdobeOrg",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "MCMID|66839568129524546032068056539336541841"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1742583474,
+    "httpOnly": false,
+    "name": "kndctr_0C511F65636543580A495C9A_AdobeOrg_consent",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "general%3Din"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1761805373,
+    "httpOnly": true,
+    "name": "FPID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FPID2.2.aGnHP5aRu59eTLmcekVLGHXoNm72fKzz%2FP0hWq5aiLw%3D.1727031452"
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1758781372,
+    "httpOnly": false,
+    "name": "_hjSessionUser_3114950",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "eyJpZCI6IjdlMzAyNTE1LThhMjYtNWNmNC1hOGNmLWNhOGI2NTIyYWZhMiIsImNyZWF0ZWQiOjE3MjcwMzE0Njc2NTIsImV4aXN0aW5nIjp0cnVlfQ=="
+  },
+  {
+    "domain": ".giftcards.com",
+    "expiry": 1729837372,
+    "httpOnly": false,
+    "name": "rmStore",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "dmid:8593|smid:3bd0dba9-8140-471c-8e82-a0b6ed4b7d0d|said:113"
+  }
+]
